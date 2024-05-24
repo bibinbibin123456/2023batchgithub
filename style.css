@@ -1,0 +1,35 @@
+.head{
+    margin-left: 15%;
+    margin-top: 5%;
+
+}
+.head a{
+    text-decoration: none;
+    margin-right: 5%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+
+}
+.box{
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-left: 17%;
+    margin-right: 16%;
+    padding-top: 10px;
+    padding-left: 23%
+    
+}
+.center{
+    text-decoration: underline;
+    font-size: 300%;
+    color: blueviolet;
+}
+.paragraph{
+    text-decoration: none;
+    padding-left: 47%;
+    padding-right: 15%;
+}
+.line{
+    border-left-color: black;
+}
